@@ -1,7 +1,0 @@
-- imagens do carrossel bootstrap ficam neste diretório
-- removidas pelas razões ditas no README
-- dimensões das imagens originais: 2640 x 880 px
-
-- bootstrap carousel images go in this directory
-- removed for reasons stated in README
-- dimensions of original images: 2640 x 880 px

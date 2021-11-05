@@ -1,7 +1,0 @@
-- músicas são guardadas aqui
-- deve existir um diretório para cada artista/grupo com todas as suas músicas guardadas nele
-- nome do mesmo deve ser o indicado no caminho guardado na base de dados (tabela "musicas")
-
-- songs are stored here
-- there should be a directory for each artist/group with all their songs stored in it
-- its name should be the one indicated in the file path stored in the database ("musicas" table)
