@@ -1,0 +1,7 @@
+- todos os scripts de javascript são guardados aqui
+- só há um porque acabámos por não usar muito
+- o que totalmente não é por isto não ter sido acabado
+
+- all javacript scripts would be stored here
+- there's only one since we ended up not using it all that much
+- which totally isn't because this is pretty unfinished

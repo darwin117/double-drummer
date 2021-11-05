@@ -1,0 +1,15 @@
+- as imagens de capa das músicas/albuns ficam neste diretório
+- cada grupo/artista na base de dados tem um diretório com o nome indicado na mesma
+- todas as imagens de um dado grupo/artista ficam nesse diretório
+
+- ex: /covers/*bandanome*/*albumnome*.png 
+- em que *bandanome*/*albumnome*.png é o caminho guardado na base de dados
+
+---
+
+- cover images for songs/albums go in this directory
+- each group/artist in the database has their own directory with the name indicated in it
+- every image of a given group/artist is kept in that directory
+
+- i.e: /covers/*bandname*/*albumname*.png
+- where *bandname*/*albumname*.png is the path stored in the database

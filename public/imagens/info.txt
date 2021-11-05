@@ -1,0 +1,7 @@
+- imagens usadas no site são guardadas neste diretório e nos seus sub-diretórios
+- todas as que imagens sob as quais não tínhamos direitos foram removidas
+- todas as imagens não removidas foram criadas por nós e encontram-se licenciadas sob a licensa aplicada ao projeto
+
+- images used in the site are stored in this directory and its sub-directories
+- every image that we didn't own was removed
+- every image available was created by us and is licensed under the license applied to the project
