@@ -1,3 +1,0 @@
-- esta é a configuaração da base de dados onde todos os dados são guardados
-
-- this is the configuration for the database where all data is stored
