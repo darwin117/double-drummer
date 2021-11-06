@@ -1,6 +1,6 @@
 # double-drummer
 
-Music listening website developed as an end of year group project for our 11th grade Web Page Development course.
+Music listening website developed as final group project for our 11th grade Web Page Development course.
 
 All parts that disclosed any information regarding us or our school have been removed, for obvious reasoning.
 
