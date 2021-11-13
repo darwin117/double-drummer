@@ -17,7 +17,7 @@ function audio_action(id_musica) {
     
     switch (button_src) {
             
-        case "http://localhost/doubledrummer/imagens/icones/btn_play.svg":
+        case // full play btn file path goes here
             
             for (var i=0; i<buttons.length; i++) {
                 buttons[i].src = "imagens/icones/btn_play.svg";
@@ -45,7 +45,7 @@ function audio_action(id_musica) {
             
             break;
             
-        case "http://localhost/doubledrummer/imagens/icones/btn_pause.svg":
+        case // full pause btn file path goes here
             
             button_src = "imagens/icones/btn_play.svg";
             document.getElementById(id_button).src = button_src;
